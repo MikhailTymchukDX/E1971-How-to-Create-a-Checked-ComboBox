@@ -13,3 +13,5 @@
 
 
 <p><strong>Note </strong>that a similar approach can be used to implement a radio button list. Use <a href="http://documentation.devexpress.com/#WPF/clsDevExpressXpfEditorsRadioComboBoxStyleSettingstopic"><u>RadioComboBoxStyleSettings</u></a> as demonstrated in the <a href="https://www.devexpress.com/Support/Center/p/E1982">E1982: How to Apply Style Settings to the ComboBoxEdit</a> example.</p>
+
+<br/>
